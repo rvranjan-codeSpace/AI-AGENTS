@@ -1,0 +1,13 @@
+crewai
+langchain-google-genai
+load_dotenv
+crewai-tools
+
+langchain
+langchain-openai
+python-decouple
+langchainhub
+duckduckgo-search
+
+
+
