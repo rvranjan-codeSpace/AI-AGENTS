@@ -8,6 +8,8 @@ langchain-openai
 python-decouple
 langchainhub
 duckduckgo-search
+langchain_groq
+langgraph
 
 
 
